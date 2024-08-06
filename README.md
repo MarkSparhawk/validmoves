@@ -51,5 +51,5 @@ res = requests.post('http://localhost:31337/getmoves',
 ```
 
 
-UML
-![UML Sequence](uml.png)
+##UML
+![UML Sequence](uml2.png)
