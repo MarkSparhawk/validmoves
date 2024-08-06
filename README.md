@@ -49,3 +49,7 @@ payload = {
 res = requests.post('http://localhost:31337/getmoves', 
                     json=payload)
 ```
+
+
+UML
+![UML Sequence](uml.png)
